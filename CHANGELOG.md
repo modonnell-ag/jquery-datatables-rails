@@ -1,3 +1,7 @@
+### 4.0.0
+  - updated railties dependency to >= 5.1.5
+  - updated actionpack dependency to >= 5.0.0.1
+
 ### 3.3.0
   - updated assets to 1 April 2015 (v1.10.6)
 

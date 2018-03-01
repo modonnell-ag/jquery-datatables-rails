@@ -21,6 +21,6 @@ Gem::Specification.new do |s|
   s.add_dependency "jquery-rails"
   s.add_dependency "sass-rails"
   s.add_dependency 'railties',   '>= 5.1.5'
-  s.add_dependency 'actionpack', '>= 5.0.0.1'
+  s.add_dependency 'actionpack', '>= 4.2.7.1'
   s.add_development_dependency 'rake'
 end

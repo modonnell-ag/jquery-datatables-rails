@@ -1,6 +1,6 @@
 
 # jquery-datatables-rails
-[![Gem Version](https://badge.fury.io/rb/jquery-datatables-rails.svg)](http://badge.fury.io/rb/jquery-datatables-rails)
+[![GitHub version](https://badge.fury.io/gh/modonnell-ag%2Fjquery-datatables-rails.svg)](https://badge.fury.io/gh/modonnell-ag%2Fjquery-datatables-rails)
 
 This gem packages the jQuery [DataTables](http://datatables.net/) plugin for easy use with the Rails 3.1+ asset pipleine.
 It provides all the basic DataTables files, and a few of the extras.
@@ -23,7 +23,7 @@ Due to an error displaying the plus icon in a recent version of this gem, the re
 1 - Add to your Gemfile:
 
 ```ruby
-gem 'jquery-datatables-rails', '~> 4.0.0'
+gem 'jquery-datatables-rails', '~> 4.0.0', :git => 'https://github.com/modonnell-ag/jquery-datatables-rails'
 ```
 
 2 - Install the gem:
